@@ -1,0 +1,30 @@
+@media only screen and (max-width: 768px) {
+    .logo img {
+        width: 50px;
+        padding: 0px 5px;
+    }
+
+    .logo h1 {
+        font-size: 1.2rem;
+    }
+
+    .menu a {
+        font-size: 12px;
+    }
+
+    .booknow a {
+        font-size: 12px;
+    }
+
+    .h-txt h1 {
+        font-size: 1.5rem;
+    }
+
+    .h-txt a {
+        font-size: 12px;
+    }
+
+    .course {
+        flex: 0 0 100%; /* Full width on small screens */
+    }
+}
